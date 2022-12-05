@@ -1,4 +1,2 @@
-My first readme
-I have edited the files: alx and school
-Deleted js directory in main
-Feeling pretty good rn
+This repository contains a folder with script files. 
+Each file has a specific function
